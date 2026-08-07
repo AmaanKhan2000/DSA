@@ -1,4 +1,4 @@
-# NeetCode Solutions — @AmaanKhan2000
+# NeetCode and LeetCode Solutions — @AmaanKhan2000
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-w8lxohjl`
 

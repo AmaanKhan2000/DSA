@@ -12,7 +12,7 @@ class Solution:
             else:
                 high = mid 
 
-        return nums[low]           
+        return nums[high]           
 
 
 
